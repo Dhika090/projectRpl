@@ -24,7 +24,7 @@ const PageIntro = () => {
             <div className="container">
               <div className="page-intro__slide__content">
                 <h2>Make your house into a home</h2>
-                <a href="#" className="btn-shop"><i className="icon-right"></i>Shop now</a>
+                <a href="#" className="btn-shop"><i className="icon-right"></i>Ayo Belanja sekarang</a>
               </div>
             </div>
           </div>
@@ -37,24 +37,24 @@ const PageIntro = () => {
             <li>
               <i className="icon-shipping"></i>
               <div className="data-item__content">
-                <h4>Free Shipping</h4>
-                <p>On purchases over $199</p>
+                <h4>Bebas Biaya Kirim</h4>
+                <p>Untuk pembelian lebih dari 3Jokut</p>
               </div>
             </li>
             
             <li>
               <i className="icon-shipping"></i>
               <div className="data-item__content">
-                <h4>99% Satisfied Customers</h4>
-                <p>Our clients' opinions speak for themselves</p>
+                <h4>99% Pelanggan Puas</h4>
+                <p>Pendapat klien kami berbicara sendiri</p>
               </div>
             </li>
             
             <li>
               <i className="icon-cash"></i>
               <div className="data-item__content">
-                <h4>Originality Guaranteed</h4>
-                <p>30 days warranty for each product from our store</p>
+                <h4>Orisinalitas Dijamin</h4>
+                <p>Garansi 30 hari untuk setiap produk dari toko kami</p>
               </div>
             </li>
           </ul>
